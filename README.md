@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Linh 
 
-<!--
-**linhdo101/linhdo101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am from Master in IT in Business program (Data Science & Analytics track) at SMU.
 
-Here are some ideas to get you started:
+## 🎯 Focus
+- Data Analytics
+- Machine Learning
+- GenAI / Agentic AI
+- Supply Chain & Business Applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+Python | Pandas | Scikit-learn | Streamlit | SQL | LangChain
+
+## 📌 Current Work
+- Building AI-powered applications
+- Applying data analytics to business problems
+
+## 📫 Connect with me
+LinkedIn: https://www.linkedin.com/in/linhdo101/
